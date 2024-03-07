@@ -1,0 +1,8 @@
+{
+    "name": "에디터 연습",
+    "category": "1",
+    "defaultUserHtml": "<div>H1, Green</div>\n<div>\n  width: 200px\n  <br>\n  padding: 10px\n  <br>\n  border: 1px solid skyblue\n  <br>\n  color: skyblue\n</div>",
+    "defaultUserCss": "div {\n  color: white;\n}",
+    "answerHtml": "<h1 class=\"h1\">H1, Green</h1>\n<div class=\"box\">\n  width: 200px\n  <br>\n  padding: 10px\n  <br>\n  border: 1px solid skyblue\n  <br>\n  color: skyblue\n</div>",
+    "answerCss": ".h1 {\n  color: green;\n}\n.box {\n  width: 200px;\n  padding: 10px;\n  border: 1px solid skyblue;\n  color: skyblue;\n}"
+}
